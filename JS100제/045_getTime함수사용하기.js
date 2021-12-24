@@ -8,3 +8,5 @@ const time = new Date().getTime();
 const year = Math.floor(time / (1000 * 60 * 60 * 24 * 365)) + 1970;
 
 console.log(year);
+
+/* 푸는중 */
